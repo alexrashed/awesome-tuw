@@ -8,7 +8,7 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Use the following format: [package](link) - Description.
+- Use the following format: [resource-name](link) - Description.
 - Only use the official english brand name `TU Wien` or the abbreviation `TUW` as stated in the [corporate design](https://www.tuwien.ac.at/dle/pr/publishing_web_print_video/corporate_design/).
 - Make an individual pull request for each suggestion.
 - Additions should be added to the bottom of the relevant category.
