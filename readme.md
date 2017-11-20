@@ -34,6 +34,8 @@ Useful scripts for students.
 - [TISS Autologin](https://github.com/strassl/tiss-autologin) - Automatic login to the TISS.
 - [TISS Registration Madness](https://github.com/JuHwon/tiss-registration-madness) - Automatic TISS course registration.
 - [Matterhorn Download](https://github.com/Lukas0907/matterhorn) - Download from Matterhorn Streaming Server.
+- [Huginn Scenarios](https://github.com/alexrashed/tuw-huginn) - [Huginn](https://github.com/huginn/huginn/) scenarios scraping the TU Wien platforms for changes.
+
 
 
 ## Contribute
